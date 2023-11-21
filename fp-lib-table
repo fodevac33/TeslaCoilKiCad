@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TeslaCoil")(type "KiCad")(uri "/home/felipe/Documents/Trabajos U/Diseño/KiCAd/Projects/TeslaCoil.pretty")(options "")(descr ""))
+)
