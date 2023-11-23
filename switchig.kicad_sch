@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 200bd2c9-82c1-4b18-b26a-368ddd570ea7)
+
+  (paper "A4")
+
+  (title_block
+    (title "Switching Circuit")
+    (date "2023-11-23")
+    (rev "1.0")
+    (company "UN Sede Manizales")
+    (comment 1 "Juan Daniel Gonzalez Gonzalez")
+    (comment 2 "Juan Felipe Osorio Franco")
+  )
+
+  (lib_symbols
+  )
+
+)
