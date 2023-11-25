@@ -1,0 +1,8 @@
+IF-D95T (Receptor Fibra Optica): https://www.digikey.com/en/products/detail/industrial-fiber-optics/IF-D95T/243780
+PA2002NL (Transformador Center Tap): https://www.digikey.com/en/products/detail/pulse-electronics/PA2002NL/5436692
+UCC27425 (Gate Driver): https://www.ti.com/product/UCC27425
+SN74LVC2G14-Q1 (Schmitt Trigger Pair): https://www.ti.com/product/SN74LVC2G14-Q1
+STGB19NC60KDT4 (IGBT): https://www.digikey.com/en/products/detail/stmicroelectronics/STGP19NC60KD/1983183
+DF005S (50V 1A Rectifier): https://www.mouser.com/ProductDetail/Vishay-General-Semiconductor/DF005S-E3-77?qs=VNfC%252BDySC%252BzdkIbXsZWpOQ%3D%3D
+DF206S-G (600V 2A Rectifier): https://www.mouser.com/ProductDetail/Comchip-Technology/DF206S-G?qs=tw%252BuQ%2FB6PO2oZbZNAGMVPw%3D%3D
+
