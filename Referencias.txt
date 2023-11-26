@@ -6,3 +6,41 @@ STGB19NC60KDT4 (IGBT): https://www.digikey.com/en/products/detail/stmicroelectro
 DF005S (50V 1A Rectifier): https://www.mouser.com/ProductDetail/Vishay-General-Semiconductor/DF005S-E3-77?qs=VNfC%252BDySC%252BzdkIbXsZWpOQ%3D%3D
 DF206S-G (600V 2A Rectifier): https://www.mouser.com/ProductDetail/Comchip-Technology/DF206S-G?qs=tw%252BuQ%2FB6PO2oZbZNAGMVPw%3D%3D
 
+
+
+Interruptor 
+
+USB:
+105017-0001
+https://co.mouser.com/ProductDetail/Molex/105017-0001?qs=hlXxxvYE36k7QcsR97GUKA%3D%3D
+
+Resistor 100
+CRGCQ0402F100R
+https://co.mouser.com/datasheet/2/418/9/ENG_DS_1773204_3_1-3345564.pdf
+
+
+Resistor 68
+CRGCQ0402F68R
+https://co.mouser.com/datasheet/2/418/9/ENG_DS_1773204_3_1-3345619.pdf
+
+Resistor 1,5 k 
+CRGCQ0402F1K5
+https://co.mouser.com/datasheet/2/418/9/ENG_DS_1773204_3_1-3345920.pdf
+
+
+Capacitor 1u
+GRMMDXR60J105ME05D
+https://co.mouser.com/datasheet/2/281/1/GRMMDXR60J105ME05_01A-1988402.pdf
+
+
+Zener Diode 
+TSZU52C3V6 RGG
+https://co.mouser.com/ProductDetail/Taiwan-Semiconductor/TSZU52C3V6-RGG?qs=QEzMiVqgwc0CGRrEqKDo3A%3D%3D
+
+SWITCH
+SLW-913535-2A-RA-D
+https://co.mouser.com/ProductDetail/CUI-Devices/SLW-913535-2A-RA-D?qs=1Kr7Jg1SGW9i2Ay3xtiJOw%3D%3D
+
+Fiber optic transmitter
+https://www.digikey.com/en/products/detail/industrial-fiber-optics/IF-E96E/3461614
+FB162-ND
