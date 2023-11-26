@@ -1307,8 +1307,8 @@
     (property "Datasheet" "" (at 140.1572 67.7418 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 6ae3ae3f-715c-479a-a904-3329f1a8c520))
-    (pin "" (uuid 6ae3ae3f-715c-479a-a904-3329f1a8c520))
+    (pin "" (uuid 6ae3ae3f-715c-479a-a904-3329f1a8c522))
+    (pin "" (uuid 6ae3ae3f-715c-479a-a904-3329f1a8c522))
     (instances
       (project "Tesla Coil Interrupter"
         (path "/3562e810-334f-45c3-a2ca-45c2660febd3"
