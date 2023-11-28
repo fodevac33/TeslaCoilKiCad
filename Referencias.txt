@@ -6,10 +6,24 @@ STGB19NC60KDT4 (IGBT): https://www.digikey.com/en/products/detail/stmicroelectro
 DF005S (50V 1A Rectifier): https://www.mouser.com/ProductDetail/Vishay-General-Semiconductor/DF005S-E3-77?qs=VNfC%252BDySC%252BzdkIbXsZWpOQ%3D%3D
 DF206S-G (600V 2A Rectifier): https://www.mouser.com/ProductDetail/Comchip-Technology/DF206S-G?qs=tw%252BuQ%2FB6PO2oZbZNAGMVPw%3D%3D
 
+C5156675(Connector Pin 2x2)
+https://datasheet.lcsc.com/lcsc/2209231730_ZHOURI-PZ2-54-2-2_C5156675.pdf
+CRGCQ0402J4R7(Resistor 4.7)
+https://co.mouser.com/datasheet/2/418/9/ENG_DS_1773204_3_1-3345746.pdf
+UCS2D470MHD1TO (Capacitor 47)
+https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucs.pdf
+SG73P1EWTTP1003F(Resistor 100k)
+https://www.koaspeer.com/pdfs/SG73P.pdf
+0314004.MXP(Fuse)
+https://co.mouser.com/datasheet/2/240/media-3319869.pdf
+GRM31CR61A107MEA8L(Capacitor 100)
+https://co.mouser.com/ProductDetail/Murata-Electronics/GRM31CR61A107MEA8L?qs=hd1VzrDQEGidurXiDTJOCg%3D%3D
+AS3010-U-0100-120-S (Transforador 110VAC:12VAC 1.2VA)
+http://www.asntransformer.com/upload/file/20160528_092443.pdf
+
 
 
 Interruptor 
-
 USB:
 105017-0001
 https://co.mouser.com/ProductDetail/Molex/105017-0001?qs=hlXxxvYE36k7QcsR97GUKA%3D%3D
