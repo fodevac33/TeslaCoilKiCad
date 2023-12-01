@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\juang\OneDrive\Documentos\Diseño Electrónico\Proyecto Final\TeslaCoilKiCad\Tesla_Coil\Tesla_Coil_Project\TeslaCoil.kicad_sch</source>
+    <date>1/12/2023 12:25:10 a. m.</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>USB Interrupter</title>
+        <company>UN Sede Manizales</company>
+        <rev>1.0</rev>
+        <date>2023-11-23</date>
+        <source>TeslaCoil.kicad_sch</source>
+        <comment number="1" value="Juan Daniel Gonzalez Gonzalez"/>
+        <comment number="2" value="Juan Felipe Osorio Franco"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://co.mouser.com/datasheet/2/281/1/GRMMDXR60J105ME05_01A-1988402.pdf</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0a18575-796d-4b06-bbe3-fc999340bbaf</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://co.mouser.com/datasheet/2/281/1/GRMMDXR60J105ME05_01A-1988402.pdf</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ec9dce3-acf0-4e72-9476-5424fe308d45</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://co.mouser.com/datasheet/2/281/1/GRMMDXR60J105ME05_01A-1988402.pdf</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cb1969a-7408-4e02-a8d4-bdfcb0563599</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://co.mouser.com/datasheet/2/281/1/GRMMDXR60J105ME05_01A-1988402.pdf</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10a1f20e-1c06-4cfd-96e6-c6c13b81ec43</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://co.mouser.com/ProductDetail/Murata-Electronics/GRM31CR61A107MEA8L?qs=hd1VzrDQEGidurXiDTJOCg%3D%3D</datasheet>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29be93cf-4b23-4414-9a2e-4ca2a8c20778</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://co.mouser.com/ProductDetail/Murata-Electronics/GRM31CR61A107MEA8L?qs=hd1VzrDQEGidurXiDTJOCg%3D%3D</datasheet>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8444c03e-84aa-4745-9325-1c4b47b9b899</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>47u</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <datasheet>https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucs.pdf</datasheet>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c987f686-cffa-4d65-aeba-3fb6636142b8</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>47u</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <datasheet>https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucs.pdf</datasheet>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d83579f-82bf-4874-87d5-cf8902869895</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://co.mouser.com/ProductDetail/Murata-Electronics/GRM31CR61A107MEA8L?qs=hd1VzrDQEGidurXiDTJOCg%3D%3D</datasheet>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5701b618-49dc-4fff-b670-6668d8c35b66</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <datasheet>https://co.mouser.com/ProductDetail/Taiwan-Semiconductor/TS4448-RGG?qs=byeeYqUIh0Nv96ycOGd55A%3D%3D</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f395beea-7503-4abe-b02c-f47a51950f32</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <datasheet>https://co.mouser.com/ProductDetail/Taiwan-Semiconductor/TS4448-RGG?qs=byeeYqUIh0Nv96ycOGd55A%3D%3D</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55c99323-0cd4-4400-88d8-50c7ddfd386d</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>DF005s</value>
+      <footprint>Diode_SMD:Diode_Bridge_Vishay_DFS</footprint>
+      <datasheet>https://www.vishay.com/docs/88573/dfs.pdf</datasheet>
+      <libsource lib="Diode_Bridge" part="DF005M" description="Miniature Glass Passivated Single-Phase Bridge Rectifiers, 35V Vrms, 1.0A If, DIP-4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Miniature Glass Passivated Single-Phase Bridge Rectifiers, 35V Vrms, 1.0A If, DIP-4"/>
+      <property name="ki_keywords" value="rectifier acdc"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b95d048e-e43a-4238-84d6-0b9c4c345297</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>DF206S-G</value>
+      <footprint>Diode_SMD:Diode_Bridge_Vishay_DFS</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/80/QW_BBR47_DF2005S_G_Thru__DF210S_G_RevG-3083826.pdf</datasheet>
+      <libsource lib="Diode_Bridge" part="DF005M" description="Miniature Glass Passivated Single-Phase Bridge Rectifiers, 35V Vrms, 1.0A If, DIP-4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Miniature Glass Passivated Single-Phase Bridge Rectifiers, 35V Vrms, 1.0A If, DIP-4"/>
+      <property name="ki_keywords" value="rectifier acdc"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b71d1f37-eda1-4471-83a1-f2102e0b75d6</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>4A</value>
+      <footprint>Fuse:Fuseholder_Clip-6.3x32mm_Littelfuse_102_122_Inline_P34.21x7.62mm_D1.98mm_Horizontal</footprint>
+      <datasheet>https://co.mouser.com/datasheet/2/240/media-3319869.pdf</datasheet>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b015d0ae-de05-4f10-9174-7615ccf17b65</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm_Relief</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fb3140e-fcb6-4ef5-bcc9-9a93c7175d59</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x02_Counter_Clockwise</value>
+      <footprint>Connector_PinHeader_1.00mm:PinHeader_2x02_P1.00mm_Vertical</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2209231730_ZHOURI-PZ2-54-2-2_C5156675.pdf</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise" description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77fdacf0-bd84-491f-867c-629949a517a9</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Pin-Headers_span-style-background-color-ff0-ZHOURI-span-PZ2-54-1-3_C5360899.html</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a5d6cae-245c-4227-ad52-03cacbb560ef</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>~</value>
+      <footprint>TeslaCoil_JDG:STGB19NC60KDT4</footprint>
+      <datasheet>https://www.st.com/content/ccc/resource/technical/document/datasheet/d7/32/bc/53/70/ba/4f/ca/CD00196439.pdf/files/CD00196439.pdf/jcr:content/translations/en.CD00196439.pdf</datasheet>
+      <libsource lib="TeslaCoil" part="STGB19NC60KDT4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4a1d8e7-09da-41b2-b6f0-0c8496342e27</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>~</value>
+      <footprint>TeslaCoil_JDG:STGB19NC60KDT4</footprint>
+      <datasheet>https://www.st.com/content/ccc/resource/technical/document/datasheet/d7/32/bc/53/70/ba/4f/ca/CD00196439.pdf/files/CD00196439.pdf/jcr:content/translations/en.CD00196439.pdf</datasheet>
+      <libsource lib="TeslaCoil" part="STGB19NC60KDT4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8eec3f42-9214-498b-9ee2-6abcd3678a65</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://co.mouser.com/datasheet/2/418/9/ENG_DS_1773204_3_1-3345746.pdf</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>523f667c-a6e8-4b97-895c-f970aea0ab47</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.koaspeer.com/pdfs/SG73P.pdf</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42fe5266-c943-4a48-91d1-e96e7d3af4c5</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.koaspeer.com/pdfs/SG73P.pdf</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3175c91-a1c5-4f71-926d-3e3eecef5e99</tstamps>
+    </comp>
+    <comp ref="T1">
+      <value>Transformer_1P_1S</value>
+      <footprint>TeslaCoil_JDG:AS3010-U-0100-120-S</footprint>
+      <datasheet>http://www.asntransformer.com/upload/file/20160528_092443.pdf</datasheet>
+      <libsource lib="Device" part="Transformer_1P_1S" description="Transformer, single primary, single secondary"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Transformer, single primary, single secondary"/>
+      <property name="ki_keywords" value="transformer coil magnet"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e110945-5ebe-4d25-8b39-04fd72047b69</tstamps>
+    </comp>
+    <comp ref="T2">
+      <value>~</value>
+      <footprint>TeslaCoil_JDG:PA2002NL</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/pulse-electronics/PA2002NL/5436692</datasheet>
+      <libsource lib="" part="PA2002NL_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cebbb13-a53d-4115-9a40-ba3050a6be20</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>TeslaCoil_JDG:SN74LVC2G14-Q1</footprint>
+      <datasheet>https://www.ti.com/product/SN74LVC2G14-Q1</datasheet>
+      <libsource lib="TeslaCoil" part="SN74LVC2G14-Q1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db2d4199-a053-45d3-b5c8-c8993018cd1a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>~</value>
+      <footprint>TeslaCoil_JDG:IF-D95T</footprint>
+      <datasheet>https://i-fiberoptics.com/pdf/ifd95-8-21.pdf</datasheet>
+      <libsource lib="TeslaCoil" part="IF-D95T" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae1828c5-925f-4e7a-a8c3-7e672184e7f2</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>~</value>
+      <footprint>TeslaCoil_JDG:UCC27425</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/ucc27425.pdf?ts=1701027792996&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FUCC27425</datasheet>
+      <libsource lib="TeslaCoil" part="UCC27425" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e10eb6c-3648-4709-838f-d90ab1b7e301</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>7815L</value>
+      <footprint>TeslaCoil_JDG:L7805ABD2T-TR</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7815" description="Positive 1.5A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Positive 1.5A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263/TO-252"/>
+      <property name="ki_keywords" value="Voltage Regulator 1.5A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>193f018e-8bd5-41aa-a13a-44ba944c5e7c</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>78L05Z</value>
+      <footprint>TeslaCoil_JDG:L7805ABD2T-TR</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7815" description="Positive 1.5A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TeslaCoil.kicad_sch"/>
+      <property name="ki_description" value="Positive 1.5A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263/TO-252"/>
+      <property name="ki_keywords" value="Voltage Regulator 1.5A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f41b1c0-2c4b-49f7-96e4-d9d502a71ebf</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="PA2002NL_1">
+      <fields>
+        <field name="Reference">T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x02_Counter_Clockwise">
+      <description>Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x02_Counter_Clockwise</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Transformer_1P_1S">
+      <description>Transformer, single primary, single secondary</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">Transformer_1P_1S</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AA" type="passive"/>
+        <pin num="2" name="AB" type="passive"/>
+        <pin num="3" name="SA" type="passive"/>
+        <pin num="4" name="SB" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode_Bridge" part="DF005M">
+      <description>Miniature Glass Passivated Single-Phase Bridge Rectifiers, 35V Vrms, 1.0A If, DIP-4</description>
+      <docs>http://www.vishay.com/docs/88571/dfm.pdf</docs>
+      <footprints>
+        <fp>Diode*Bridge*DIP*W7.62mm*P5.08mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DF005M</field>
+        <field name="Footprint">Diode_THT:Diode_Bridge_DIP-4_W7.62mm_P5.08mm</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88571/dfm.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7815">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7815</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="TeslaCoil" part="IF-D95T">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="passive"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TeslaCoil" part="SN74LVC2G14-Q1">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="2A" type="input"/>
+        <pin num="4" name="2Y" type="output"/>
+        <pin num="5" name="VCC" type="passive"/>
+        <pin num="6" name="1Y" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="TeslaCoil" part="STGB19NC60KDT4">
+      <fields>
+        <field name="Reference">Q</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TeslaCoil" part="UCC27425">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ENBA" type="input"/>
+        <pin num="2" name="INA" type="input"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="INB" type="input"/>
+        <pin num="5" name="OUTB" type="output"/>
+        <pin num="6" name="VCC" type="output"/>
+        <pin num="7" name="OUTA" type="output"/>
+        <pin num="8" name="ENBB" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode_Bridge">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode_Bridge.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="TeslaCoil">
+      <uri>C:\Users\juang\OneDrive\Documentos\Diseño Electrónico\Proyecto Final\TeslaCoilKiCad\Tesla_Coil\Tesla_Coil_Project/TeslaCoil.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VCC" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VCC" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+15V">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="VCC" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="3" name="ANT">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="5" name="HOT">
+      <node ref="D4" pin="3" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="T1" pin="1" pinfunction="AA" pintype="passive"/>
+    </net>
+    <net code="6" name="NTRL">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="T1" pin="2" pinfunction="AB" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D4-+)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D4--)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="T2" pin="5" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D4-Pad4)">
+      <node ref="D4" pin="4" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(J2-Pin_1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(J2-Pin_2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="T2" pin="8" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(J2-Pin_3)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(J2-Pin_4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="T2" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J3-Pin_1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="T2" pin="3" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(J3-Pin_3)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pintype="input"/>
+      <node ref="T2" pin="6" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pintype="input"/>
+      <node ref="T2" pin="4" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(T1-SA)">
+      <node ref="D3" pin="3" pintype="passive"/>
+      <node ref="T1" pin="3" pinfunction="SA" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(T1-SB)">
+      <node ref="D3" pin="4" pintype="passive"/>
+      <node ref="T1" pin="4" pinfunction="SB" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(U1-1Y)">
+      <node ref="U1" pin="3" pinfunction="2A" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(U1-2Y)">
+      <node ref="U1" pin="4" pinfunction="2Y" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="INA" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(U2-OUT)">
+      <node ref="U2" pin="2" pinfunction="OUT" pintype="output"/>
+      <node ref="U3" pin="1" pinfunction="ENBA" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="ENBB" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U3-OUTA)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="24" name="Net-(U3-OUTB)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="25" name="VOUT">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+  </nets>
+</export>

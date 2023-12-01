@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Interruptor")
+    (date "2023-12-01")
+    (comment 1 "Juan Daniel Gonzalez Gonzalez")
+    (comment 2 "Juan Felipe Osorio Franco")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x06_Pin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 7.62 0)
